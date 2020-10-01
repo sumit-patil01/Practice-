@@ -1,0 +1,5 @@
+/* The Command used to print is */
+
+System.out.println("Hello world);
+
+/* This is a basic line to print somwthing in the console in java */
